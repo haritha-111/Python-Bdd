@@ -24,6 +24,8 @@ def deposit_cucumbers(cucumbers, deposit):
         print(cucumbers)
         print(cucumbers)
         print(cucumbers)
+        print(cucumbers)
+        print(cucumbers)
 
 @when(parsers.parse('I withdraw {withdraw:d} cucumbers'))
 def withdraw_cucumbers(cucumbers, withdraw):
